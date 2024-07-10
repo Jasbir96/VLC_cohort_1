@@ -16,5 +16,6 @@
 <!-- 
 * extract your project 
  * make sure you have html file named as index.html -> on the top most
- * git init , 
+ * termisnl :git init  
+ * -> go to left side bar   -> add , commit -> publish the branch
   -->
